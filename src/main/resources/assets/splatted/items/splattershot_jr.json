@@ -1,0 +1,13 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "splatted:item/splattershot_jr",
+    "gui_light": "front",
+    "tints": [
+      {
+        "type": "splatted:tint",
+        "default": -1
+      }
+    ]
+  }
+}
